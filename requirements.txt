@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pywin32
+db-sqlite3
+numpy
+watchdog
